@@ -1,1 +1,6 @@
 .vs/
+echo "Alcohol/" >> .gitignore
+echo "SummerLab1/" >> .gitignore
+echo "oplab1-DemchenkoVladyslav/" >> .gitignore
+echo "oplab2-ArtemLedinskyi/" >> .gitignore
+echo "thread/" >> .gitignore
